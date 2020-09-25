@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**parwinakhtari/parwinakhtari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+### Hello I am Pari ❤
+- 🔭 I’m currently working on Web Development and Web Designing
+- 🌱 I’m currently learning React and Angular
+- 👯 I’m looking to collaborate on Github
+- 🤔 I’m looking for help with Back end 
+- 💬 Ask me about UX-UI
+- 📫 How to reach me: parwinakhtari7@gmail.com
+- 😄 Pronouns: She / Her
 - ⚡ Fun fact: ...
--->
+
+
