@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React and Angular
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Front end
-- 💬 Ask me about UX-UI 
+- 💬 Ask me about UX-UI and Tech stuffs.
 - 📫 How to reach me: parwinakhtari7@gmail.com
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I love learning new stuff so it is getting difficult for me to master anything 
