@@ -1,6 +1,6 @@
 ### Hello I am Pari ❤
 - 🔭 I’m currently working on Web Development , Web Designing and Competitive Coding.
-- 🌱 I’m currently learning React and Angular
+- 🌱 I’m currently learning React and Hugo.
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Front end
 - 💬 Ask me about UX-UI and Tech stuffs.
