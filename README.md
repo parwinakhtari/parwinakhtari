@@ -10,6 +10,8 @@
 - 💬 Ask me about DSA and Tech stuffs.
 - 📫 How to reach me: parwinakhtari7@gmail.com
 - 😄 Pronouns: She / Her
+- 🧗 I try to: Go beyond and push the bounds
+- ⚡ Oneday I will make it happen 
 - ⚡ Fun fact: I love learning new stuff so it is getting difficult for me to master anything 
 
 </br>
