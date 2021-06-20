@@ -27,7 +27,7 @@
 
 
 
-<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket762&theme=radical" alt="aniket pal" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=aniket762&count_private=true&theme=radical"/></p>
+<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=parwinakhtari&theme=radical" alt="parwin akhtari" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=parwinakhtari&count_private=true&theme=radical"/></p>
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
@@ -48,9 +48,5 @@
 <!--END_SECTION_LANGUAGE:readme-info-->
 
 <h3 align='center'>Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3> 
-![Parwin's github stats](https://github-readme-stats.vercel.app/api?username=parwinakhtari&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parwinakhtari&layout=compact)](https://github.com/parwinakhtari/github-readme-stats)
-
- 
 
 
