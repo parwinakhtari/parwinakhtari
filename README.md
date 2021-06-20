@@ -2,6 +2,7 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=parwinakhtari&theme=react-dark&hide_border=true&area=true)
 
+<img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/46/1f/2f/461f2fef35be1e85cce9c4c128c4f275.png" padding="5px" />
 
 - 🔭 I’m currently working on Web Development , Web Designing and Competitive Coding.
 - 🌱 I’m currently learning MERN.
