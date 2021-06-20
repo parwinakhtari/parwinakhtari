@@ -1,9 +1,9 @@
 ### Hello I am Pari ❤
 - 🔭 I’m currently working on Web Development , Web Designing and Competitive Coding.
-- 🌱 I’m currently learning React and CP.
+- 🌱 I’m currently learning MERN.
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Competetive Programming.
-- 💬 Ask me about UX-UI and Tech stuffs.
+- 💬 Ask me about DSA and Tech stuffs.
 - 📫 How to reach me: parwinakhtari7@gmail.com
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I love learning new stuff so it is getting difficult for me to master anything 
