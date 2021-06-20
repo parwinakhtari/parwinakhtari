@@ -4,7 +4,7 @@
 
 <img align="right" height="250px" alt="GIF" src="https://cdna.artstation.com/p/assets/images/images/008/239/984/large/hanna-shmakova-busines-woman-signature-image2.jpg?1511406332" padding="5px" />
 
-- 🔭 I’m currently working on Web Development , Web Designing and Competitive Coding.
+- 🔭 I’m currently working on Web Development and Competitive Coding.
 - 🌱 I’m currently learning MERN.
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about DSA and Tech stuffs.
