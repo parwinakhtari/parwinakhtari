@@ -1,8 +1,7 @@
 <h1 align="center">Heyo<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! It's Pari ❤  </h1>
 
-![](https://activity-graph.herokuapp.com/graph?username=parwinakhtari&theme=react-dark&hide_border=true&area=true)
 
-<img align="right" height="250px" alt="GIF" src="https://cdna.artstation.com/p/assets/images/images/008/239/984/large/hanna-shmakova-busines-woman-signature-image2.jpg?1511406332" padding="5px" />
+<img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/736x/ea/69/dc/ea69dc6226e72a33f82d3add20b470df.jpg" padding="5px" />
 
 - 🔭 I’m currently working on Web Development and Competitive Coding.
 - 🌱 I’m currently learning Cloud Pub/Sub Architecture.
